@@ -1,2 +1,2 @@
 # CS50
-Repository for CS50 code
+Repository for all problem sets and programs developed as part of Harvard's Introduction to Computer Science Course. 
